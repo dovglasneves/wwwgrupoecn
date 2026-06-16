@@ -245,7 +245,7 @@ body {
   /* City selector + WPP button wrapper */
   .hero-wpp-wrapper {
     position: absolute;
-    top: 70%;
+    top: 65%;
     left: 53%;
     transform: translateX(-50%);
     display: flex;
