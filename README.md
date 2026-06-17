@@ -1,4 +1,4 @@
-<div style="text-align: center;"><strong><h1>🚀 Landing Page - ECN Gás</h1></strong><br /><br /></div>
+<div style="text-align: center;"><strong><h2>🚀 Landing Page - ECN Gás</h2></strong><br /><br /></div>
 Este é o repositório da Landing Page da ECN Gás, desenvolvida com o objetivo principal de apresentar a empresa, seus serviços e direcionar clientes de forma rápida, intuitiva e eficiente para os canais de atendimento.
 
 <strong>📋 Sobre o Projeto</strong><br />
