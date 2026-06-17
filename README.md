@@ -6,20 +6,14 @@ A landing page foi projetada para ser a porta de entrada digital da ECN Gás. El
 
 <strong>✨ Principais Funcionalidades</strong><br />
 Seção Institucional: Apresentação da ECN Gás, seus valores, compromisso com a segurança e área de atuação.
-
 Catálogo de Serviços/Produtos: Informações claras sobre o fornecimento de gás (residencial, comercial ou industrial).
-
 Direcionamento Inteligente: Botões de chamada para ação (CTAs) estratégicos que guiam o usuário diretamente para o WhatsApp.
-
 Seção de FAQ: Dúvidas frequentes sobre segurança, entrega e formas de pagamento para reduzir a carga do suporte humano.
-
 Design Responsivo: Totalmente otimizado para visualização em smartphones, tablets e computadores.
 
 <strong>🛠️ Tecnologias Utilizadas</strong><br />
 O projeto foi construído utilizando as seguintes tecnologias:
-
 HTML5 & CSS3 – Estruturação e estilização semântica.
-
 JavaScript (ES6+) – Interatividade (menus, animações de scroll e validação de formulários).
 
 <strong>📄 Licença</strong><br />
